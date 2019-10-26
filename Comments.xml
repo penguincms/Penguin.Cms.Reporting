@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <doc>
     <assembly>
-        <name>Penguin.Cms.Reporting.Local</name>
+        <name>Penguin.Cms.Reporting</name>
     </assembly>
     <members>
     </members>
