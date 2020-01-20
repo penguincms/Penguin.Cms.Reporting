@@ -9,6 +9,6 @@
     <RootNamespace>Penguin.Cms.Reporting</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Penguin.Cms.Entities" Version="3.0.4-T9MNBFG" />
+    <PackageReference Include="Penguin.Cms.Entities" Version="3.0.4-T9QC72V" />
   </ItemGroup>
 </Project>
