@@ -19,9 +19,9 @@ namespace Penguin.Cms.Reporting
 
         public ParameterInfo()
         {
-            MinValue = new ParameterConstraint();
-            MaxValue = new ParameterConstraint();
-            Default = new ParameterConstraint();
+            this.MinValue = new ParameterConstraint();
+            this.MaxValue = new ParameterConstraint();
+            this.Default = new ParameterConstraint();
         }
     }
 }
